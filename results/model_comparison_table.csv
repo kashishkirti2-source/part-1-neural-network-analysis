@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Activation,Epochs,Batch Size,Test Accuracy,Test Loss
+Experiment 1,1,[16],relu,10,32,0.985,0.082
+Experiment 2,2,"[32, 16]",relu,20,32,0.985,0.0559
+Experiment 3,2,"[64, 32]",tanh,25,16,0.985,0.0651
